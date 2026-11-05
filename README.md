@@ -223,6 +223,8 @@ The CLI supports model selection through the `--model` argument or the `OPENAI_M
 
 ![Report Overview](assets/screenshots/report_overview.png)
 
+### Report download button
+
 ![Research Gap Analysis](assets/screenshots/report_analysis.png)
 
 ## ⚠️ Limitations
