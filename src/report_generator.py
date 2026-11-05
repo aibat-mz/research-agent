@@ -52,7 +52,7 @@ def generate_report(
     # Section: Title & preamble
     # ------------------------------------------------------------------
     lines = [
-        f"# Research Literature Analysis: {topic}",
+        f"# Literature Analysis",
         "",
         f"**Generated:** {timestamp}  ",
         f"**Papers analysed:** {len(paper_metadata_list)}",
