@@ -6,12 +6,16 @@ __pycache__/
 
 # Virtual environment
 venv/
+.venv/
 
 # Environment variables
 .env
 
 # FAISS index
 papers_faiss_index/
+
+# Research papers
+data/papers/*.pdf
 
 # OS
 .DS_Store
@@ -24,3 +28,6 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+
+# IDE
+.vscode/
